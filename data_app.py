@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 
 app = Flask(__name__, template_folder='templates', static_folder='static', static_url_path='/')
-
+app.secret_key='Enter you secret key here'
 # extract the training the data to use in the recomendation project
 with open('needed_files/model_laptop.pkl', 'rb') as f:
     pickle_file = pickle.load(f)
