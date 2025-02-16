@@ -1,0 +1,164 @@
+,name,discount_price,price,discount %,cpu,ram,storage,classification,brand_name
+0,"Lenovo ThinkBook 16 G7 IML 21MS00C3ED - 16"" Touchscreen - Core Ultra 7 155H - 16GB Ram - 512GB SSD - Intel Arc Graphics - 3 Years Warranty",870.0,950.0,-8.0,Intel®,6,512.0,Mid End,lenovo
+1,"HP 17-CP3005DX - 17.3"" - Ryzen 5 7430U - 8GB Ram - 512GB SSD - AMD Radeon Graphics",550.0,800.0,-31.0,AMD,8,512.0,Budget,hp
+2,"HP Envy X360 16-AC0033DX - 16"" Touchscreen - Core Ultra 7 155U - 32GB Ram - 2TB SSD - Intel Graphics",1270.0,1350.0,-6.0,Intel®,3,2000.0,Mid End,hp
+3,"Lenovo ThinkPad X1 Carbon G12 - 21KCCTO1WW-20 - 14"" Touchscreen - Core Ultra 7 165U - 64GB Ram - 2TB SSD - Intel Graphics",2799.0,3000.0,-7.0,Intel®,64,2000.0,Hight End,lenovo
+4,"Lenovo Yoga 9 2-In-1 14IMH9 - 83AC0001US - 14"" Touchscreen - Core Ultra 7 155H - 16GB Ram - 1TB SSD - Intel Arc Graphics - Includes Lenovo Slim Pen",1350.0,1650.0,-18.0,Intel®,6,1000.0,Mid End,lenovo
+5,"Lenovo ThinkPad T14 Gen 5 - 14"" Touchscreen - Core Ultra 7 155U - 32GB Ram - 512GB SSD - Intel Graphics",1250.0,1500.0,-17.0,Intel®,6,512.0,Mid End,lenovo
+6,"Samsung Galaxy Book4 Pro - 16"" Touchscreen - Core Ultra 7 155H - 16GB Ram - 1TB SSD - Intel Arc Graphics",1470.0,1600.0,-8.0,,6,1000.0,Mid End,samsung
+7,"HP 17-CP3045 - 17.3"" Touchscreen - Ryzen 7 7730U - 16GB Ram - 1TB + 512GB SSD - AMD Radeon Graphics",750.0,850.0,-12.0,AMD,6,1000.0,Budget,hp
+8,"Lenovo Thinkpad P16s G2 21HK003JUS - 16"" Touchscreen - Core I7-1360P - 16GB Ram - 512GB SSD - RTX A500 4GB",1150.0,1250.0,-8.0,Intel®,6,512.0,Mid End,lenovo
+9,"Lenovo V15 G4 IRU 83A1009DED - 15.6"" - Core I5-13420H - 8GB Ram - 256GB SSD - Intel UHD Graphics",550.0,650.0,-15.0,Intel®,8,256.0,Budget,lenovo
+11,"HP Envy X360 2-In-1 Laptop 16t-Ac000 - 16"" Touchscreen - Core Ultra 7 155U - 16GB Ram - 512GB SSD - Intel Graphics - Pen Included",1000.0,1100.0,-9.0,Intel®,6,512.0,Mid End,hp
+12,"Acer Aspire 3 Spin 14 - A3SP14-31PT-38YA - 14"" Touchscreen - Core I3-N305 - 8GB Ram - 256GB SSD - Intel UHD Graphics",425.0,470.0,-10.0,Intel,8,256.0,Budget,acer
+13,"Dell XPS 13 9350 Copilot+ PC - 13.4"" - Ultra 7 256V - 16GB Ram - 512GB SSD - Intel® Arc™ Graphics",1299.0,1450.0,-10.0,Intel®,6,512.0,Mid End,dell
+14,"Lenovo ThinkPad X1 Carbon Gen 11 21HMS4VA00 - 14"" - Core I7-1355U - 16GB Ram - 1TB SSD - Intel Iris Xe",1299.0,1700.0,-24.0,Intel®,6,1000.0,Mid End,lenovo
+15,"Samsung Galaxy Book3 NP750XFG-KB2US - 15.6"" - Core I7-1355U - 16GB Ram - 512GB SSD - Intel Iris Xe",600.0,700.0,-14.0,Intel®,6,512.0,Budget,samsung
+16,"Lenovo IdeaPad Pro 5 16IMH9 83D4001HUS - 16"" Touchscreen - Core Ultra 9 185H - 32GB Ram - 1TB SSD - RTX 4050 6GB",1450.0,1500.0,-3.0,Intel®,3,1000.0,Mid End,lenovo
+17,"Microsoft Surface Laptop (7th Edition) ZGP-00037 Copilot+ PC - 13.8"" TouchScreen - Qualcomm Snapdragon X Elite - 16GB Ram - 512GB SSD - Qualcomm Adreno GPU",1350.0,1650.0,-18.0,Snapdragon®,6,512.0,Mid End,microsoft
+18,"Microsoft Surface Laptop (7th Edition) EP2-06079 Copilot+ PC - 13.8"" TouchScreen - Snapdragon® X Plus - 16GB Ram - 1TB SSD - Qualcomm Adreno GPU",1250.0,1350.0,-7.0,Snapdragon®,6,1000.0,Mid End,microsoft
+19,"ASUS Vivobook 16X OLED K3605VU - 16"" - Core I9-13900H - 16GB Ram - 1TB SSD - RTX 4050 6GB",1150.0,1450.0,-21.0,Intel®,6,1000.0,Mid End,asus
+20,"HP Pavilion Plus 16T-AB000 - 16"" - Core I7-13700H - 16GB Ram - 512GB SSD - RTX 3050 6GB",850.0,900.0,-6.0,Intel®,6,512.0,Mid End,hp
+22,"HP Laptop 15-Fd0095WM - 15.6"" - Core I5-1235U - 8GB Ram - 256GB SSD - Intel Iris Xe",450.0,520.0,-13.0,Intel®,8,256.0,Budget,hp
+23,"Lenovo IdeaPad Slim 3 82XB008LUS - 15.6"" - Core I3-N305 - 8GB Ram - 256GB SSD - Intel UHD Graphics",330.0,380.0,-13.0,Intel®,8,256.0,Budget,lenovo
+24,"Lenovo IdeaPad 1 82QD00DHUS - 15.6"" Touchscreen - Core I3-1215U - 8GB Ram - 256GB SSD - Intel UHD Graphics",450.0,550.0,-18.0,Intel®,8,256.0,Budget,lenovo
+25,"HP Laptop 15t-Fd000 (70R14AV) - 15.6"" - Core I7-1355U - 8GB Ram - 256GB SSD - Intel Iris Xe Graphics",700.0,800.0,-13.0,Intel®,8,256.0,Budget,hp
+26,"HP Laptop 15-FD0107DX (A9PE7UA)- 15.6"" Touchscreen - Core I7-1255U - 16GB Ram - 512GB SSD - Intel Iris Xe Graphics",750.0,850.0,-12.0,Intel,6,512.0,Budget,hp
+28,"Acer SWIFT GO - SFG14-73T-75FA - 14"" Touchscreen - Core Ultra 7 155H - 16GB Ram - 1TB SSD - Intel Arc Graphics",825.0,900.0,-8.0,Intel,6,1000.0,Mid End,acer
+29,"HP 17T-CN300 947N1AV - 17.3"" - Core I5-1334U - 8GB Ram - 256GB SSD - Intel Graphics",600.0,700.0,-14.0,Intel®,8,256.0,Budget,hp
+32,"Dell Inspiron 14 7445 2in1 Laptop - 14"" Touchscreen - Ryzen 5 8640HS - 8GB Ram - 512GB SSD - AMD Radeon Graphics",650.0,800.0,-19.0,AMD,8,512.0,Budget,dell
+33,"Lenovo IdeaPad 1 82VG00QFUS - 15.6"" - Ryzen 5 7520U - 16GB Ram - 256GB SSD - AMD Radeon 610M Graphics",470.0,600.0,-22.0,AMD,6,256.0,Budget,lenovo
+34,"Lenovo Yoga Slim 7 15ILL9 - 15.3"" Touchscreen - Core Ultra 7 256V - 16GB Ram - 1TB SSD - Intel Arc Graphics 140V",1350.0,1500.0,-10.0,Intel®,6,1000.0,Mid End,lenovo
+35,"HP Laptop 15-Fd0143ne (B05A5EA)- 15.6"" - Core I7-1355U - 8GB Ram - 512GB SSD - MX570 2GB",750.0,850.0,-12.0,Intel®,8,512.0,Budget,hp
+36,"HP EliteBook 840 G11 - 14"" - Core Ultra 5-125U - 16GB Ram - 512GB SSD - Intel Graphics",900.0,1100.0,-18.0,Intel®,6,512.0,Mid End,hp
+37,"HP Laptop 15-Fd0149ne (B05B1EA) - 15.6"" - Core I5-1334U - 8GB Ram - 512GB SSD - Intel® Iris® Xᵉ Graphics",500.0,600.0,-17.0,Intel®,8,512.0,Budget,hp
+38,"HP Laptop 15-Fd0152ne (B05B4EA) - 15.6"" - Core I3-1315U - 8GB Ram - 256GB SSD - Intel UHD Graphics",400.0,500.0,-20.0,Intel®,8,256.0,Budget,hp
+39,LG Gram 15.6” Touchscreen - Core Ultra 7 155H - 16GB Ram - 1TB SSD - Intel Arc Graphics,1100.0,1200.0,-8.0,Powered,6,1000.0,Mid End,lg
+40,"Lenovo IdeaPad Slim 3 82XM00BAUS - 15.6"" Touchscreen - Ryzen 7 7730U - 16GB Ram - 512GB SSD - AMD Radeon Graphics",650.0,720.0,-10.0,AMD,6,512.0,Budget,lenovo
+41,"Lenovo IdeaPad 1 82VG00MYUS - 15.6"" Touchscreen - Ryzen 5 7520U - 8GB Ram - 256GB SSD - AMD Radeon 610M Graphics",500.0,550.0,-9.0,AMD,8,256.0,Budget,lenovo
+43,"Lenovo V15 G4 IRU 83A1004SED - 15.6"" - Core I3-1315U - 8GB Ram - 256GB SSD - Intel UHD Graphics",380.0,420.0,-10.0,Intel®,8,256.0,Budget,lenovo
+44,"MSI Modern 15 B12MO-1000US - 15.6"" - Core I7-1255U - 16GB Ram - 512GB SSD - Intel Iris Xe",650.0,750.0,-13.0,Intel®,6,512.0,Budget,msi
+46,"Lenovo ThinkPad X1 2-In-1 G9 21KE002AUS - 14"" Touchscreen - Core Ultra 5 135U - 16GB Ram - 512GB SSD - Intel Graphics",950.0,1200.0,-21.0,Intel®,6,512.0,Mid End,lenovo
+49,"Dell Latitude 7350 Detachable - 13.3"" Touchscreen - Core Ultra 7 164U - 32GB Ram - 256GB SSD - Intel Graphics",850.0,1050.0,-19.0,Intel®,3,256.0,Mid End,dell
+50,"Asus Vivobook Pro 15 Q543B-U94060 - 15.6"" - Core Ultra 9 185H - 24GB Ram - 2TB SSD - RTX 4060 8GB",1599.0,1700.0,-6.0,Intel®,8,2000.0,Mid End,asus
+51,"HP Envy 16-H1055- 16"" Touchscreen - Core I7-13700H - 32GB Ram - 2TB SSD - RTX 4060 8GB",1275.0,1450.0,-12.0,Intel®,3,2000.0,Mid End,hp
+52,"HP Pro X360 435 G10 - A47K8U8#ABA - 13.3"" Touchscreen - Ryzen 7 7730U - 32GB Ram - 1TB SSD - AMD Radeon Graphics",770.0,930.0,-17.0,AMD,3,1000.0,Mid End,hp
+53,"HP Pro X360 435 G10 - A33TXU8#ABA - 13.3"" Touchscreen - Ryzen 7 7730U - 32GB Ram - 512GB SSD - AMD Radeon Graphics",720.0,900.0,-20.0,AMD,3,512.0,Mid End,hp
+54,"Lenovo IdeaPad Slim 5 83FW0001US - 16"" Touchscreen - Core™ 7 150U - 16GB Ram - 1TB SSD - Intel® Graphics",660.0,800.0,-18.0,Intel®,6,1000.0,Budget,lenovo
+55,"Lenovo IdeaPad 5 2-In-1 83DR000GUS - 14"" Touchscreen - AMD Ryzen™ 7 8845HS - 16GB Ram - 1TB SSD - Integrated AMD Radeon™ 780M Graphics",699.0,730.0,-4.0,,6,1000.0,Budget,lenovo
+57,"Hp Envy X360 14-ES1013DX - 14"" Touchscreen - Core 5-120U - 8GB Ram - 512GB SSD - Intel Graphics",650.0,900.0,-28.0,Intel®,8,512.0,Mid End,hp
+59,"HP Pavilion 16-Af0945nr - 16"" - Core Ultra 7 155U - 16GB Ram - 512GB SSD - Intel Graphics",850.0,1000.0,-15.0,Intel®,6,512.0,Mid End,hp
+60,"HP Envy X360 14-FA0013DX - 14"" Touchscreen - Ryzen 5 8640HS - 16GB Ram - 512GB SSD - AMD Radeon Graphics",650.0,750.0,-13.0,AMD,6,512.0,Budget,hp
+61,"Lenovo ThinkBook 16 G7 IML 21MS0028GQ - 16"" - Core Ultra 5 125U - 8GB Ram - 512GB SSD - Intel Graphics",675.0,800.0,-16.0,Intel®,8,512.0,Budget,lenovo
+62,"Lenovo ThinkBook 13x G4 - 13.5"" Touchscreen - Core Ultra 9 185H - 32GB Ram - 1TB SSD - Intel Arc Graphics",1499.0,1850.0,-19.0,Intel®,3,1000.0,Hight End,lenovo
+63,"Lenovo ThinkBook 16 G6 21KH006SUS - 16"" Touchscreen - Core I7-1355U - 16GB Ram - 512GB SSD - Intel Iris Xe",690.0,800.0,-14.0,Intel®,8,512.0,Budget,lenovo
+65,"Lenovo ThinkBook 14 G7 IML 21MR005SUS - 14"" Touchscreen - Core Ultra 7 155U - 16GB Ram - 512GB SSD - Intel Graphics",800.0,900.0,-11.0,Intel®,6,512.0,Mid End,lenovo
+66,"MSI Summit 13 AI+ Evo A2VMTG - 13.3"" Touchscreen - Copilot+ PC - Core Ultra 7 258V - 32GB Ram - 1TB SSD - Intel Arc Graphics - Includes MSI Topload Bag",1640.0,1700.0,-4.0,Intel®,3,1000.0,Mid End,msi
+67,"MSI Modern 15 H AI C1MG - 15.6"" - Core Ultra 7 155H - 16GB Ram - 1TB SSD - Intel Arc Graphics - Includes MSI Topload Bag",895.0,950.0,-6.0,Intel®,8,1000.0,Mid End,msi
+69,"MSI Modern 14 H D13MG - 14"" - Core I7-13620H - 16GB Ram - 1TB SSD - Intel Iris Xe - Includes MSI Topload Bag",825.0,880.0,-6.0,13th,8,1000.0,Budget,msi
+70,"MSI Modern 15 H B13M - 15.6"" - Core I3-1315U - 16GB Ram - 512GB SSD - Intel Iris Xe - Includes MSI Topload Bag",510.0,600.0,-15.0,Intel®,6,512.0,Budget,msi
+71,"Lenovo IdeaPad Flex 5 82R8X026US - 16"" Touchscreen - Core I7-1255U - 8GB Ram - 512GB SSD - Intel Iris Xe",615.0,850.0,-28.0,12th,8,512.0,Budget,lenovo
+72,"Lenovo ThinkPad P14S G5 21G20029US - 14.5"" - Core Ultra 7 155H - 16GB Ram - 512GB SSD - RTX 500 Ada 4GB",1650.0,2000.0,-18.0,Intel®,6,512.0,Hight End,lenovo
+73,"ASUS Zenbook S 16 (UM5606) Copilot+ PC - 16"" Touchscreen - Ryzen AI 9 365 - 24GB Ram - 1TB SSD - AMD Radeon 880M",1550.0,1800.0,-14.0,AMD,4,1000.0,Mid End,asus
+75,"Lenovo ThinkPad X1 Carbon Gen 11 21HM000SUS - 14"" Touchscreen - Core I7-1365U - 32GB Ram - 512GB SSD - Intel Iris Xe",1200.0,1700.0,-29.0,Intel®,3,512.0,Mid End,lenovo
+76,"HP ProBook 460 G11 - A22ZZEA - 16"" - Core Ultra 5 125U - 8GB Ram - 512GB SSD - Intel Integrated Graphics",800.0,900.0,-11.0,Intel®,8,512.0,Mid End,hp
+77,"HP ProBook 450 G10 85C38EA - 15.6"" Touchscreen - Core I7-1355U - 16GB Ram - 512GB SSD - RTX 2050 4GB",930.0,1050.0,-11.0,Intel®,6,512.0,Mid End,hp
+78,"HP 250 G10 85C50EA - 15.6"" - Core I5-1334U - 8GB Ram - 512GB SSD - Intel UHD Graphics",555.0,610.0,-9.0,Intel®,8,512.0,Budget,hp
+80,"Microsoft Surface Laptop 6 ZLT-00001 - 15"" Touchscreen - Core Ultra 7 165U - 32GB Ram - 512GB SSD - Intel Arc Graphics",2200.0,2300.0,-4.0,Intel,3,512.0,Hight End,microsoft
+82,"Lenovo IdeaPad Flex 5 82R700L4US - 14"" Touchscreen - Core I3-1215U - 8GB Ram - 256GB SSD - Intel UHD Graphics",449.0,570.0,-21.0,Intel®,8,256.0,Budget,lenovo
+83,"HP Laptop 15-Fd0371nia - 15.6"" -  Core I7-1355U - 8GB Ram - 512GB SSD - MX570 2GB",699.0,800.0,-13.0,Intel®,8,512.0,Budget,hp
+84,"HP ProBook 460 G11 - A23C9EA#BH5 - 16"" - Core Ultra 7 155U - 16GB Ram - 512GB SSD - Intel Integrated Graphics",850.0,1000.0,-15.0,Intel®,6,512.0,Mid End,hp
+85,"Lenovo Ideapad 3 82KU00EAED - 15.6"" - Ryzen 7 5700U - 8GB Ram - 512GB SSD - AMD Radeon Graphics",500.0,550.0,-9.0,AMD,4,512.0,Budget,lenovo
+86,"Lenovo Yoga 7 2-In-1 14AHP9 - 14"" Touchscreen - Ryzen 5 8640HS - 16GB Ram - 512GB SSD - AMD Radeon 760M",699.0,850.0,-18.0,,6,512.0,Budget,lenovo
+87,"Lenovo Thinkpad P1 G7 21KV0010US - 16"" - Core Ultra 7 155H - 16GB Ram - 512GB SSD - NVIDIA RTX 1000 Ada 6GB",2000.0,2200.0,-9.0,Intel®,6,512.0,Hight End,lenovo
+88,"Lenovo ThinkPad T14 Gen 5 - 14"" - Core Ultra 7 155U - 16GB Ram - 512GB SSD - Intel UHD Graphics",1350.0,1700.0,-21.0,Intel®,6,512.0,Mid End,lenovo
+89,"Microsoft Surface Laptop (7th Edition) Copilot+ PC - 15"" TouchScreen - Snapdragon X Elite - 16GB Ram - 256GB SSD - Qualcomm Adreno GPU - Platinum",1450.0,1650.0,-12.0,Snapdragon®,6,256.0,Mid End,microsoft
+90,"Lenovo ThinkPad E14 G5 21JK009AGP - 14"" - Core I7-1355U - 8GB Ram - 512GB SSD - MX550 2GB - Includes Lenovo Laptop Casual Toploader",950.0,1100.0,-14.0,Intel®,8,512.0,Mid End,lenovo
+91,"Microsoft Surface Laptop (7th Edition) Copilot+ PC - 15"" TouchScreen - Snapdragon X Elite - 16GB Ram - 256GB SSD - Qualcomm Adreno GPU",1450.0,2200.0,-34.0,Snapdragon®,6,256.0,Hight End,microsoft
+92,"Lenovo IdeaPad 5 2-In-1 83DR0002US - 14.0"" Touchscreen - AMD Ryzen™ 7 8845HS - 16GB Ram - 1TB SSD - Integrated AMD Radeon™ 780M Graphics",850.0,1000.0,-15.0,,6,1000.0,Mid End,lenovo
+93,"HP ProBook 460 G11 - A1LE0UT#ABA - 16"" - Core Ultra 7 155U - 32GB Ram - 512GB SSD - Intel Integrated Graphics",910.0,1300.0,-30.0,Intel®,3,512.0,Mid End,hp
+95,"Dell Inspiron 7440 2in1 Laptop 14"" Touchscreen - Core 7 150U - 16GB Ram - 1TB SSD - Intel Graphics",930.0,1100.0,-15.0,Intel®,6,1000.0,Mid End,dell
+96,"Microsoft Surface Laptop 6 ZKG-00001 - 13.5"" Touchscreen - Core Ultra 7 165U - 64GB Ram - 1TB SSD - Intel Arc Graphics",3000.0,3300.0,-9.0,Intel,64,1000.0,Hight End,microsoft
+97,"Microsoft Surface Laptop (7th Edition) ZXX-00001 Copilot+ PC - 13.8"" TouchScreen - Snapdragon X Elite - 16GB Ram - 1TB SSD - Qualcomm Adreno GPU - Platinum",1650.0,2200.0,-25.0,Snapdragon®,6,1000.0,Hight End,microsoft
+98,Microsoft Surface Pro (11th Edition) Copilot+ PC - 13” Touchscreen - Snapdragon X Plus - 16GB Ram - 512GB SSD - Qualcomm Adreno GPU,1350.0,1500.0,-10.0,Snapdragon®,6,512.0,Mid End,microsoft
+99,"Lenovo IdeaPad 5 2in1 83DS0000US - 16"" Touchscreen - Ryzen 7 8845HS - 16GB Ram - 1TB SSD - AMD Radeon 780M Graphics",670.0,980.0,-32.0,AMD,6,1000.0,Mid End,lenovo
+101,"HP EliteBook 630 G10 Notebook PC (816M8EA) - 13.3"" - Core I7-1355U - 8GB Ram - 512GB SSD - Intel Iris Xe",900.0,1030.0,-13.0,Intel®,8,512.0,Mid End,hp
+102,"Lenovo IdeaPad 5 2in1 83DR000FCF - 14"" Touchscreen - Ryzen 5 8645HS - 16GB Ram - 512GB SSD - AMD Radeon 760M Graphics - Stylus Pen Included",680.0,750.0,-9.0,AMD,6,512.0,Budget,lenovo
+103,"HP Spectre X360 14T-EU000 - 14"" Touchscreen - Core Ultra 7 155H - 32GB Ram - 512GB SSD - Intel Arc Graphics",1100.0,1250.0,-12.0,Intel®,3,512.0,Mid End,hp
+104,"Lenovo ThinkBook 16 G7 IML 21MS000NGQ - 16"" - Core Ultra 7 155H - 8GB Ram - 512GB SSD - Intel Arc Graphics",815.0,900.0,-9.0,Intel®,8,512.0,Mid End,lenovo
+106,"Asus Vivobook Pro 15 OLED N6506MV-MA022 - 15.6"" - Core Ultra 7 155H - 16GB Ram - 1TB SSD - RTX 4060 8GB - 3Years Warranty",1350.0,1450.0,-7.0,Intel®,6,1000.0,Mid End,asus
+107,"Asus Vivobook Pro 15 OLED N6506MU-MA029 - 15.6"" - Core Ultra 7 155H - 16GB Ram - 1TB SSD - RTX 4050 6GB - 3Years Warranty",1230.0,1310.0,-6.0,Intel®,6,1000.0,Mid End,asus
+111,"Microsoft Surface Laptop Studio 2-IN-1 Z1I-00001 - 14.4"" Touchscreen - Core I7-13700H - 32GB Ram - 1TB SSD - RTX 4050 6GB",2499.0,3250.0,-23.0,Intel®,3,1000.0,Hight End,microsoft
+112,"Dell XPS 13 - 13.4"" - Core Ultra 7 155H - 16GB Ram - 512GB SSD - Intel Arc Graphics",1299.0,1500.0,-13.0,Intel®,6,512.0,Mid End,dell
+113,"Acer SWIFT GO - SFG14-71T-72QV - 14"" Touchscreen - Core I7-1355U - 16GB Ram - 512GB SSD - Intel Iris Graphics",660.0,800.0,-18.0,Intel®,6,512.0,Budget,acer
+115,"HP Envy 16-H1053DX - 16"" Touchscreen - Core I7-13700H - 16GB Ram - 1TB SSD - RTX 4060 8GB",1175.0,1300.0,-10.0,Intel®,6,1000.0,Mid End,hp
+116,"Lenovo ThinkPad T14 Gen 3 21AH00BQUS - 14"" - Core I5-1235U - 16GB Ram - 256GB SSD - Intel Iris Xe",825.0,1100.0,-25.0,Intel®,8,256.0,Mid End,lenovo
+118,"Asus VivoBook S 16 Flip 2-IN-1 TP3604VA-IS93T - 16"" Touchscreen - Core I9-13900H - 16GB Ram - 1TB SSD - Intel Iris Xe",1100.0,1150.0,-4.0,Intel®,6,1000.0,Mid End,asus
+120,"HP Spectre X360 16-AA0023 - 16"" Touchscreen - Core Ultra 7 155H - 32GB Ram - 1TB SSD - RTX 4050 6GB",1450.0,1850.0,-22.0,Intel®,3,1000.0,Hight End,hp
+121,"Lenovo IdeaPad 5 2-In-1 83DU0009CF - 14.0"" Touch - Core Ultra 7 150U - 16GB Ram - 512GB SSD - Integrated Intel Graphics",799.0,1000.0,-20.0,,6,512.0,Mid End,lenovo
+122,"HP Laptop 15-FD0061NE (9Q4P8EA#ABV) - 15.6"" - Core I7-1355U - 8GB Ram - 512GB SSD - MX570 A 2GB Graphics",690.0,750.0,-8.0,Intel®,8,512.0,Budget,hp
+123,"HP Laptop 15-FD0022NE (91W37EA#ABV) - 15.6"" - Core I7-1355U - 8GB Ram - 512GB SSD - Intel Iris Xe Graphics",650.0,700.0,-7.0,Intel®,8,512.0,Budget,hp
+124,"HP Laptop 15-FD0054NE - 15.6"" - Core I5-1334U - 8GB Ram - 512GB SSD - Intel Iris Xe Graphics",500.0,550.0,-9.0,Intel®,8,512.0,Budget,hp
+125,"Lenovo Yoga 7 2-In-1 14IML9 - 14"" Touchscreen - Core Ultra 7 155U - 16GB Ram - 1TB SSD - Intel Graphic",950.0,1050.0,-10.0,,6,1000.0,Mid End,lenovo
+126,"Lenovo ThinkPad X1 Carbon G12 - 21KC0046US - 14"" - Core Ultra 7 155U - 32GB Ram - 512GB SSD - Intel Graphics",1700.0,2000.0,-15.0,Intel®,3,512.0,Hight End,lenovo
+128,"Lenovo ThinkPad E16 G2 - 21MA0035US - 16"" - Core Ultra 7 155U - 16GB Ram - 512GB SSD - Intel Arc Graphics",970.0,1100.0,-12.0,Intel®,6,512.0,Mid End,lenovo
+129,"Lenovo ThinkPad E16 G2 21MA000BGP - 16"" - Core Ultra 5 125U - 8GB Ram - 512GB SSD - Intel Graphics - Includes Lenovo 15.6"" Laptop Casual Toploader",800.0,920.0,-13.0,Intel®,8,512.0,Mid End,lenovo
+130,"Lenovo ThinkPad E14 G6 21M7000FGR - 14"" - Core Ultra 5 125U - 8GB Ram - 512GB SSD - Intel Graphics - Includes Lenovo 15.6"" Laptop Casual Toploader",800.0,890.0,-10.0,Intel®,8,512.0,Budget,lenovo
+131,"HP Pavilion 16T-AF000 - 16"" - Core Ultra 7 155U - 16GB Ram - 512GB SSD - Intel Graphics",900.0,1000.0,-10.0,Intel®,6,512.0,Mid End,hp
+132,"Microsoft Surface Laptop (7th Edition) ZYT-00026 Copilot+ PC - 15"" TouchScreen - Snapdragon X Elite - 16GB Ram - 1TB SSD - Qualcomm Adreno GPU",2000.0,2200.0,-9.0,Snapdragon®,6,1000.0,Hight End,microsoft
+133,Microsoft Surface Pro (11th Edition) Copilot+ PC - 13” OLED - Snapdragon X Elite - 16GB Ram - 512GB SSD - Qualcomm Adreno GPU - Black,1650.0,2000.0,-18.0,Snapdragon®,6,512.0,Hight End,microsoft
+134,Microsoft Surface Pro (11th Edition) Copilot+ PC - 13” OLED - Snapdragon X Elite - 16GB Ram - 1TB SSD - Qualcomm Adreno GPU,1950.0,2200.0,-11.0,Snapdragon®,6,1000.0,Hight End,microsoft
+135,Lenovo Yoga Book 9 83FF0001US 2-IN-1 - Dual 13.3 Inch Touchscreen - Core Ultra 7 155U - 16GB Ram - 1TB SSD - Intel Graphics - Includes Lenovo Silent Mouse + Folio Stand,1750.0,2000.0,-13.0,,6,1000.0,Hight End,lenovo
+136,"Lenovo Yoga 7 2-In-1 16IML9 - 16"" Touchscreen - Core Ultra 7 155U - 16GB Ram - 1TB SSD - Intel Graphic",900.0,1350.0,-33.0,,6,1000.0,Mid End,lenovo
+137,"HP Envy X360 16-AC0023DX - 16"" Touchscreen - Core Ultra 7 155U - 16GB Ram - 1TB SSD - Intel Arc Graphics",925.0,990.0,-7.0,Intel®,6,1000.0,Mid End,hp
+138,"Lenovo ThinkPad T14 Gen 4 21HD00DGUS - 14"" Touchscreen - Core I7-1355U - 32GB Ram - 1TB SSD - Intel Iris Xe",950.0,1300.0,-27.0,Intel®,6,1000.0,Mid End,lenovo
+139,Microsoft Surface Pro (11th Edition) Copilot+ PC - 13” OLED - Snapdragon X Elite - 32GB Ram - 1TB SSD - Qualcomm Adreno GPU,2200.0,2400.0,-8.0,Snapdragon®,3,1000.0,Hight End,microsoft
+140,"HP Spectre X360 16-F2008 8V6R2UAR#ABL - 16"" Touchscreen - Core I7-1360P - 32GB Ram - 1TB SSD - Intel Arc A370 4GB",1050.0,1350.0,-22.0,,3,1000.0,Mid End,hp
+142,"Dell Latitude 7230 Rugged Extreme Tablet - 12"" Touchscreen - Core I7-1260U - 32GB Ram - 512GB SSD - Intel Iris Xe",1580.0,1750.0,-10.0,12th,3,512.0,Mid End,dell
+143,"HP ProBook 450 G10 85D09EA - 15.6"" - Core I7-1355U - 16GB Ram - 512GB SSD - Intel Iris Xe",760.0,875.0,-13.0,Intel®,6,512.0,Budget,hp
+144,"Asus Zenbook Duo OLED UX8406MA-PS99T - Dual 14"" Touchscreen - Core Ultra 9 185H - 32GB Ram - 1TB SSD - Intel ARC Graphics",2250.0,2350.0,-4.0,Intel®,3,1000.0,Hight End,asus
+145,"Asus Vivobook Pro 15 Q533MJ-U73050 - 15.6"" - Core Ultra 7 155U - 16GB Ram - 1TB SSD - RTX 3050 6GB",1050.0,1350.0,-22.0,Intel®,6,1000.0,Mid End,asus
+146,"Asus Zenbook 14 Q425MA-U71TB - 14"" Touchscreen - Core Ultra 7 155H - 16GB Ram - 1TB SSD - Intel Arc Graphics",999.0,1200.0,-17.0,Intel®,6,1000.0,Mid End,asus
+147,"Dell XPS 16 9640 - 16.3"" - Core Ultra 7 155H - 16GB Ram - 512GB SSD - RTX 4060 8GB",3300.0,3400.0,-3.0,Intel®,6,512.0,Hight End,dell
+148,"Dell Latitude 7320 - 13"" Touchscreen - Core I7-1180G7 - 16GB Ram - 512GB SSD - Intel Iris Xe - Keyboard Not Included",900.0,1090.0,-17.0,Core,6,512.0,Mid End,dell
+149,"Dell Latitude 7320 - 13"" Touchscreen - Core I5-1140G7 - 16GB Ram - 512GB SSD - Intel Iris Xe - Keyboard Not Included",700.0,899.0,-22.0,Intel,6,512.0,Budget,dell
+150,"Asus Vivobook Pro 16X M7600QE-XB99 - 16"" - Ryzen 9 5900HX - 32GB Ram - 1TB SSD - RTX 3050Ti 4GB",1250.0,1350.0,-7.0,AMD,3,1000.0,Mid End,asus
+151,"Lenovo ThinkBook Plus G4 21JJ0004US - 13.3"" + 12"" Touchscreen - Core I7-1355U - 16GB Ram - 512GB SSD - Intel Iris Xe - Includes Stylus Pen",950.0,1250.0,-24.0,Intel®,6,512.0,Mid End,lenovo
+152,"Asus Vivobook 14 Flip UP3404VA-OLED007W - 14"" OLED Touchscreen - Core I7-1360P - 16GB Ram - 512GB SSD - Intel Iris Xe - Includes Sleeve Bag + Stylus Pen",1065.0,1250.0,-15.0,Intel®,6,512.0,Mid End,asus
+153,"Asus Zenbook Duo OLED UX8406MA-PZ044W - Dual 14"" Touchscreen - Core Ultra 7 155H - 16GB Ram - 1TB SSD - Intel ARC Graphics",1600.0,1850.0,-14.0,Intel®,6,1000.0,Hight End,asus
+154,HP ProBook 450 G10 85D06EA - 15.6 Inch - Core I7-1355U - 8GB Ram - 512GB SSD - Intel UHD Graphics,740.0,800.0,-8.0,Intel®,8,512.0,Budget,hp
+155,"Asus VivoBook 15 X1502ZA-EJ1429 - 15.6"" - Core I7-12700H - 8GB Ram - 512GB SSD - Intel Iris Xe",590.0,670.0,-12.0,Intel®,8,512.0,Budget,asus
+156,"HP Spectre X360 14-EF2000 9R4T2U8R#ABA - 13.5"" Touchscreen - Core I7-1355U - 32GB Ram - 512GB SSD - Intel Iris Xe",999.0,1200.0,-17.0,Intel®,3,512.0,Mid End,hp
+157,"Microsoft Surface Pro (5th Gen) FJS-00001 - 12.3"" Touchscreen - Intel Core M3-7Y30 - 4GB Ram - 128GB SSD - Intel HD Graphics 615",450.0,550.0,-18.0,Intel®,4,128.0,Budget,microsoft
+160,Lenovo Thinkpad X1 Extreme G5 - 16 Inch - Core I9-12900H - 32GB Ram - 1TB SSD - RTX 3080Ti 16GB,2299.0,2800.0,-18.0,Powered,3,1000.0,Hight End,lenovo
+161,Lenovo ThinkPad T15G G2 - 15.6 Inch - Core I7-11850H - 16GB Ram - 512GB SSD - RTX 3080 16GB,1499.0,2000.0,-25.0,,6,512.0,Hight End,lenovo
+162,"Dell Mobile Precision 3581 PRE0158210-R0023665-SA - 15.6"" - Core I7-13800H - 64GB Ram - 2TB SSD - RTX A500 4GB",1450.0,1550.0,-6.0,Intel®,64,2000.0,Mid End,dell
+164,HP ZBOOK Firefly G8 - 14 Inch - Core I5-1145G7 - 16GB Ram - 256GB SSD - NVIDIA T500 4GB,650.0,850.0,-24.0,Intel®,6,256.0,Budget,hp
+166,"Microsoft Surface Laptop Studio 2 Z3G-00001 - 14.4"" Touchscreen - Core I7-13700H - 64GB Ram - 2TB SSD - RTX 4060 8GB",3700.0,3999.0,-7.0,13th,64,2000.0,Hight End,microsoft
+168,HP 250 G9 6S6V4EA - 15.6 Inch - Core I7-1255U - 8GB Ram - 512GB SSD - Intel UHD Graphics,635.0,715.0,-11.0,Intel®,8,512.0,Budget,hp
+169,"Acer Aspire A515-58GM-56TV - 15.6"" - Core I5-1335U - 8GB Ram - 512GB SSD - RTX 2050 4GB",655.0,730.0,-10.0,Intel®,8,512.0,Budget,acer
+170,"Acer Aspire A515-58GM-77HH - 15.6"" - Core I7-1355U - 8GB Ram - 512GB SSD - RTX 2050 4GB",760.0,950.0,-20.0,Intel®,8,512.0,Mid End,acer
+173,"MSI Prestige 14 H B13UCX - 14"" - Core I7-1360P - 16GB Ram - 1TB SSD - RTX 2050 4GB",1195.0,1500.0,-20.0,13th,6,1000.0,Mid End,msi
+174,HP ProBook 450 G9 5Y3T5EA - 15.6 Inch - Core I7-1255U - 16GB Ram - 512GB SSD - MX570 2GB,790.0,925.0,-15.0,Intel®,6,512.0,Mid End,hp
+175,HP ProBook 440 G9 5Y3R5EA - 14 Inch- Core I7-1255U - 8GB Ram - 512GB SSD - Intel Iris Xe,790.0,865.0,-9.0,Intel®,8,512.0,Budget,hp
+176,HP ProBook 450 G9 5Y3T8EA - 15 Inch - Core I5-1235U - 8GB Ram - 512GB SSD - MX570 2GB,750.0,850.0,-12.0,Intel®,8,512.0,Budget,hp
+178,Asus VivoBook D415DA-BV589 – 14 Inch - Ryzen 3 - 4GB - 256GB - AMD Radeon Graphics,365.0,450.0,-19.0,AMD,4,256.0,Budget,asus
+182,Acer TMP215 TravelMate TMP215-53G-53ZU – 15.6 Inch - Core I5-1135G7 - 8GB Ram - 1TB HDD - MX330 2GB DDR5,520.0,580.0,-10.0,Core,8,1000.0,Budget,acer
+183,Asus E210MA-GJ116 - 11.6 Inch - Celeron N4020 - 4GB Ram - 256GB SSD - Intel HD Graphics,250.0,350.0,-29.0,,4,256.0,Budget,asus
+185,HP 250 G9 6S797EA - 15.6 Inch - Core I3-1215U - 8GB Ram - 256GB SSD - Intel UHD Graphics,390.0,460.0,-15.0,,8,256.0,Budget,hp
+186,Lenovo Thinkpad Z16 G1 21D4000JUS - 16-Inch Touchscreen - Ryzen 7 PRO 6850H - 16GB Ram - 512GB SSD - Radeon RX 6500M 4GB,1400.0,1500.0,-7.0,AMD,6,512.0,Mid End,lenovo
+188,Lenovo ThinkPad L13 Yoga 21B5002AED - 13.3 Inch Touchscreen - Core I7-1255U - 16GB Ram - 512GB SSD - Intel Iris Xe,1650.0,1685.0,-2.0,Intel®,6,512.0,Mid End,lenovo
+189,Lenovo ThinkPad L14 G3 21C10081ED - 14 Inch - Core I7-1255U - 8GB Ram - 512GB SSD - Intel Iris Xe Graphics,1189.0,1350.0,-12.0,Intel®,8,512.0,Mid End,lenovo
+190,Lenovo ThinkBook 16 G4 - 21CY0036ED - Core I7-1260P - 16GB Ram - 512GB SSD - RTX 2050 4GB,1210.0,1250.0,-3.0,Intel®,6,512.0,Mid End,lenovo
+192,Lenovo ThinkBook 15 G4 21DJ003NED - 15.6 Inch - Core I3-1215U - 8GB Ram - 256GB SSD - Integrated Intel UHD,510.0,560.0,-9.0,Intel®,8,256.0,Budget,lenovo
+194,MSI Summit E13 Flip Evo A13MT-234US - 13.4 Inch - Core I7-1360P - 32GB Ram - 1TB SSD - Intel Iris Xe - Includes Msi Pen,1099.0,1200.0,-8.0,Core,3,1000.0,Mid End,msi
+195,Microsoft Surface Laptop Studio - 14.4 Inch Touchscreen - Core I5-11300H - 16GB Ram - 256GB SSD - Intel Iris Xe,1200.0,1600.0,-25.0,Intel,6,256.0,Mid End,microsoft
+196,"Lenovo ThinkPad T14 G2 - 14"" Touchscreen - Ryzen 5 Pro 5650U - 16GB Ram - 256GB SSD - AMD Radeon Graphics",650.0,1200.0,-46.0,,6,256.0,Mid End,lenovo
+197,Microsoft Surface Pro 3 - 12 Inch Touchscreen - Core I5-4300U - 8GB Ram - 256GB SSD - Intel HD Graphics (Used),390.0,400.0,-3.0,Intel®,8,256.0,Budget,microsoft
+198,Microsoft Surface Pro 3 - 12 Inch Touchscreen - Core I5-4300U - 4GB Ram - 128GB SSD - Intel HD Graphics (Used),290.0,350.0,-17.0,Intel®,4,128.0,Budget,microsoft
+200,"Dell XPS 9310 - 13.4"" Touchscreen - Core I7-1185G7 - 16GB Ram - 512GB SSD - Intel Iris Xe",780.0,850.0,-8.0,,6,512.0,Budget,dell
+201,HP Envy 6X6S1U8R - 15.6 Inch - Core I7-11800H - 16GB Ram - 512GB SSD - RTX 3050Ti 4GB,999.0,1500.0,-33.0,Intel®,6,512.0,Mid End,hp
+203,HP Envy X360 66B41UA - 13.3 Inch - Core I7-1250U - 8GB Ram - 512GB SSD - Intel Iris Xe,950.0,1070.0,-11.0,Intel®,8,512.0,Mid End,hp
+204,Lenovo Thinkpad X1 Yoga G7 21CDCTO1WW - 14 Inch Touchscreen - Core I7-1260P - 16GB Ram - 512GB SSD - Intel Iris Xe Graphics - Lenovo Integrated Pen,1499.0,2300.0,-35.0,Intel,6,512.0,Hight End,lenovo
+206,Lenovo ThinkPad P15v G2 21D8001WED - 15.6 Inch - Core I7-12800H - 16GB Ram - 512GB SSD - Quadro T600 4GB,2180.0,2300.0,-5.0,,6,512.0,Hight End,lenovo
+207,"Dell Latitude 5420 18BFDB3 - 14"" - Core I5-1145G7 - 16GB Ram - 512GB SSD - Intel Iris Xe",670.0,910.0,-26.0,11th,6,512.0,Mid End,dell

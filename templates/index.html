@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Laptop Prediction</a>
+        <div class="links">
+            <a href="https://github.com/HusseinGhandour-lb"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+    </header>
+
+    <section class="main">
+        <div>
+            <span>In Laptop Prediction </span><br>
+            <p>We can give you any prediction regarding laptop preices and classification <br>
+                Just input your info and let the machine gives the result</p>
+            <br>
+            <div class="brand1">
+                <div class="brand-np">
+                    <div>
+                       <img src="laptops/lenovo.jpg" alt=""> 
+                    </div>                   
+                    <a href="#">Lenovo</a>
+                </div>
+                <div class="brand-np">
+                    <div>
+                       <img src="laptops/hp.png" alt=""> 
+                    </div>                   
+                    <a href="#">HP</a>
+                </div>
+                <div class="brand-np">
+                    <div>
+                        <img src="laptops/acer.png" alt="">
+                    </div>                   
+                    <a href="#">Acer</a>
+                </div>
+                <div class="brand-np">
+                    <div>
+                        <img src="laptops/dell.png" alt="">
+                    </div>                  
+                    <a href="#">Dell</a>
+                </div>
+            </div>
+            <div class="brand2">
+                <div class="brand-np">
+                    <div>
+                        <img src="laptops/sam.png" alt="">
+                    </div>                   
+                    <a href="#">Samsung</a>
+                </div>
+                <div class="brand-np">
+                    <div>
+                        <img src="laptops/msi.png" alt="">
+                    </div>                   
+                    <a href="#">MSI</a>
+                </div>
+                <div class="brand-np">
+                    <div>
+                        <img src="laptops/lg.png" alt="">
+                    </div>                   
+                    <a href="#">LG</a>
+                </div>
+                <div class="brand-np">
+                    <div>
+                        <img src="laptops/asus.svg" alt="">
+                    </div>                   
+                    <a href="#">Asus</a>
+                </div>
+                <div class="brand-np">
+                    <div>
+                        <img src="laptops/micro.svg" alt="">
+                    </div>                   
+                    <a href="#">Microspft</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="form-sec" id="cp">
+        <h2>Enter Data: </h2>
+        <br>
+        <div class="form-in">
+            <form method="POST" action="/">
+                <div class="inputs">
+                    <div>
+                        <label for="brand">Brand:</label>
+                        <input type="text" id="brand" name="brand" required>
+                    </div>
+                    <div>
+                        <label for="ram">RAM:</label>
+                        <input type="number" id="ram" name="ram" required>
+                    </div>
+                    <div>
+                        <label for="storage">Storage:</label>
+                        <input type="number" id="storage" name="storage" required>
+                    </div>
+                </div>
+                <div class="btn">
+                    <button type="submit" name="submit">Predict</button>
+                </div>
+            </form>
+        </div>
+        {% if pred_value %}
+        <h2>The price is: {{pred_value}} $</h2>
+        {% else %}
+        <h2>The price is: $</h2>
+        {% endif %}
+    
+        {% if recomendation %}
+        <h2>we recommend: </h2>
+        {% for reco in recomendation %}
+        <div class="reco">
+            <p>{{reco}}</p>
+        </div>
+        {% endfor %}
+        {% else %}
+        <h2>we recommend: </h2>
+        {% endif %}
+    </section>
+
+    <section class="footer" id="links">
+        <span>Done By: Hussein Ghandour</span>
+        <div>
+            <a href="https://github.com/HusseinGhandour-lb"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+    </section>
+</body>
+</html>
