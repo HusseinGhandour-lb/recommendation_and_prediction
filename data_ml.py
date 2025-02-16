@@ -58,7 +58,7 @@ def recommend(df, func, input):
         recommendations.append((brand, price))  
     return recommendations
 
-df = open_data('basic_clean_data_laptop.csv', columns_to_drop=['cpu','Unnamed: 0','discount_price','discount %', 'classification'])
+df = open_data('csv_files/basic_clean_data_laptop.csv', columns_to_drop=['cpu','Unnamed: 0','discount_price','discount %', 'classification'])
 df['brand_name']= encod(df['brand_name'])
 
 x = df.drop(['price', 'name'], axis=1)
