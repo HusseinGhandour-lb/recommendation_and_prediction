@@ -45,4 +45,4 @@
 <img src="https://github.com/user-attachments/assets/b9dff0ae-c2bf-4a53-ad60-7b77bf34974f" width=80%>
 <img src="https://github.com/user-attachments/assets/48c0d5f4-bc1a-4ccd-98d4-3a5dd427c9d9" width=80%>
 
-Note: In the code Their should be a app.secret_key inoder for the prediction to come out you can place any you want by( app.secret_key='your_secret_key'
+Note: In the code Their should be a app.secret_key inorder for the prediction to come out you can place any you want by( app.secret_key='your_secret_key'
